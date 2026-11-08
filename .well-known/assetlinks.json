@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.godrama.mobile",
+      "sha256_cert_fingerprints": [
+        "29:A7:2B:AB:CF:9B:0A:94:05:AD:59:66:13:DE:15:66:DD:6A:AF:1E:D7:E7:C8:0A:0F:07:AD:63:95:ED:04:E9"
+      ]
+    }
+  }
+]
+

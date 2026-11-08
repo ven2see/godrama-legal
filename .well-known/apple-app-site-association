@@ -1,0 +1,28 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "REPLACE_WITH_APPLE_TEAM_ID.app.godrama.mobile"
+        ],
+        "components": [
+          {
+            "/": "/series/*"
+          },
+          {
+            "/": "/watch/*"
+          },
+          {
+            "/": "/verify-email*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "REPLACE_WITH_APPLE_TEAM_ID.app.godrama.mobile"
+    ]
+  }
+}
+
